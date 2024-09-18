@@ -4,8 +4,8 @@ setup(
     name="qualia",
     version="1.0.0",
     description="QUALIA: A multilingual translation tool",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="COFO",
+    author_email="bcofo@proton.me",
     url="https://github.com/cofoindustries/qualia",
     packages=find_packages(),
     install_requires=[
