@@ -1,0 +1,13 @@
+qualia/
+│
+├── qualia/                        # Your main project code
+│   ├── __init__.py                # Makes qualia a package
+│   └── translate.py               # Contains the main code for translation
+│
+├── tests/                         # Directory for test scripts
+│   └── test_translate.py          # Unit tests for the translate module
+│
+├── README.md                      # Project documentation
+├── setup.py                       # Setup file for installing the package
+├── requirements.txt               # External dependencies (googletrans)
+└── LICENSE                        # License file for open-source sharing
