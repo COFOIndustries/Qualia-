@@ -8,7 +8,7 @@ To install QUALIA, you need Python 3.6+ and pip.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/qualia.git
+    git clone https://github.com/COFOIndustries/qualia.git
     cd qualia
     ```
 
